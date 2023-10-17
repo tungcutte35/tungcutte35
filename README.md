@@ -19,7 +19,7 @@
 - Programming Languages: ![My Skills](https://skillicons.dev/icons?i=js,ts,java,python)
 - Frontend Frameworks and Libraries: ![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwindcss)
 - Backend Technologies: ![My Skills](https://skillicons.dev/icons?i=spring,nodejs)
-- Mobie Technologies : ![My Skills](https://skillicons.dev/icons?i=reactnative)
+- Mobie Technologies : ![My Skills](https://skillicons.dev/icons?i=react)
 - Database Management: ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb)
 - Tools: ![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postman,figma)
 
