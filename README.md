@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tungcutte35&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tungcutte35&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ https://www.facebook.com/Booking.tungcutte/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanh-t%C3%B9ng-l%C3%AA-456915228/) 
 
 
