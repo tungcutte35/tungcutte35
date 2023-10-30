@@ -23,10 +23,6 @@
 - Database Management: ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,mariadb)
 - Tools: ![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postman,figma)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tungcutte35&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tungcutte35&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tungcutte35&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Booking.tungcutte/) 
 
